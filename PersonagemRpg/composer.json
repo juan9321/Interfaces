@@ -1,0 +1,14 @@
+{
+    "name": "juan/personagem",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Farias"
+        }
+    ],
+    "require": {}
+}
